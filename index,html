@@ -1,0 +1,27 @@
+<DOCTYPE html>
+    <html lang="es">
+        <head>
+            <title> listas </title>
+            </head>
+            <body>
+                <t1>listas</t1> <br/>
+               <t2>listas ordenadas</t2>
+                        <ol>
+                        <li>elememnto 1</li>
+                            <ol>
+                                <li>subelememnto 1</li>
+                                <li>subelememnto 2</li>
+                                 <li>subelememnto 3</li>
+                            </ol>
+                        <li>elememnto 2</li>
+                        <li>elememnto 3</li>
+
+                        </ol>
+                        <t3>listas deordenadas</t3>
+                        <ul>
+                            <li>elememnto 1</li>
+                            <li>elememnto 2</li>
+                            <li>elememnto 3</li>
+                        </ul>
+                    </body>
+                    </html>
